@@ -1,0 +1,15 @@
+# Compiled executables
+sudoku
+test_cellgrid
+imagebin
+
+# Output files
+output_image.bmp
+*.o
+
+# Test images (too large)
+test_image.bmp
+*.bmp
+
+# SVG files
+*.svg
